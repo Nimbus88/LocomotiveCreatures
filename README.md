@@ -10,6 +10,8 @@ Max Generations: 100,
 Evalution Time (Sec): 20,
 Mutation Rate: 0.1
 
+<b>Use Unitypackage to use in Unity</b>
+
 ## Approach
 Psuedo-code of genetic algorithm:
 ```
